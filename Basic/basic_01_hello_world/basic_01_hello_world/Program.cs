@@ -12,7 +12,7 @@ namespace basic_01_hello_world
         {
             //We can use a comment with a slash 
             /*
-              We can use a comment with a slash and *
+              We can also use a comment with a slash and *
             */
 
             //Displaying "Hello World"
