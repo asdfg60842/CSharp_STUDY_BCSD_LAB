@@ -2,7 +2,7 @@
 *****DATA_TYPE*****
 ///////////////////
 
-All.NET programming languages use the .NET data type defined in the .NET Common Type System.
+All .NET programming languages use the .NET data type defined in the .NET Common Type System.
 You can refer to this link.
 https://docs.microsoft.com/ko-kr/previous-versions/visualstudio/visual-studio-2008/2hf02550(v=vs.90)?redirectedfrom=MSDN
 
