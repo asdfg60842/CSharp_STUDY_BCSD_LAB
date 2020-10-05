@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\bin\Debug\basic_02_data_type.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\bin\Debug\basic_02_data_type.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\bin\Debug\basic_02_data_type.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\obj\Debug\basic_02_data_type.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\obj\Debug\basic_02_data_type.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\obj\Debug\basic_02_data_type.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_02_data_type\basic_02_data_type\obj\Debug\basic_02_data_type.pdb

@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\bin\Debug\basic_01_hello_world.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\bin\Debug\basic_01_hello_world.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\bin\Debug\basic_01_hello_world.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\obj\Debug\basic_01_hello_world.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\obj\Debug\basic_01_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\obj\Debug\basic_01_hello_world.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_01_hello_world\basic_01_hello_world\obj\Debug\basic_01_hello_world.pdb
