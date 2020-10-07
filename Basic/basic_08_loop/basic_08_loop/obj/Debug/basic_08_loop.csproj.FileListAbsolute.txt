@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\bin\Debug\basic_08_loop.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\bin\Debug\basic_08_loop.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\bin\Debug\basic_08_loop.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\obj\Debug\basic_08_loop.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\obj\Debug\basic_08_loop.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\obj\Debug\basic_08_loop.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_08_loop\basic_08_loop\obj\Debug\basic_08_loop.pdb

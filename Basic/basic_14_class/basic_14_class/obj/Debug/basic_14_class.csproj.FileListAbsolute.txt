@@ -1,0 +1,6 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\obj\Debug\basic_14_class.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\bin\Debug\basic_14_class.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\bin\Debug\basic_14_class.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\bin\Debug\basic_14_class.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\obj\Debug\basic_14_class.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_14_class\basic_14_class\obj\Debug\basic_14_class.pdb

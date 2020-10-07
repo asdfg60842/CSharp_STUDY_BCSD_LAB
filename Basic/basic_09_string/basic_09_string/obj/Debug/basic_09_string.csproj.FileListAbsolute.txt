@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\bin\Debug\basic_09_string.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\bin\Debug\basic_09_string.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\bin\Debug\basic_09_string.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\obj\Debug\basic_09_string.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\obj\Debug\basic_09_string.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\obj\Debug\basic_09_string.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_09_string\basic_09_string\obj\Debug\basic_09_string.pdb

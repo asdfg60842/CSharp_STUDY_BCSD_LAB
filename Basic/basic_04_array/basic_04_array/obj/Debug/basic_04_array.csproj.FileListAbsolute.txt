@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\obj\Debug\basic_04_array.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\obj\Debug\basic_04_array.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\bin\Debug\basic_04_array.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\bin\Debug\basic_04_array.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\bin\Debug\basic_04_array.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\obj\Debug\basic_04_array.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_04_array\basic_04_array\obj\Debug\basic_04_array.pdb
