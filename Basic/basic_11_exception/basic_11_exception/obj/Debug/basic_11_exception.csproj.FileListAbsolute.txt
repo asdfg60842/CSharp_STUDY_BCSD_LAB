@@ -1,0 +1,2 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_11_exception\basic_11_exception\obj\Debug\basic_11_exception.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_11_exception\basic_11_exception\obj\Debug\basic_11_exception.csproj.CoreCompileInputs.cache

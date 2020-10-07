@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\bin\Debug\basic_13_struct.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\bin\Debug\basic_13_struct.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\bin\Debug\basic_13_struct.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\obj\Debug\basic_13_struct.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\obj\Debug\basic_13_struct.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\obj\Debug\basic_13_struct.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_13_struct\basic_13_struct\obj\Debug\basic_13_struct.pdb

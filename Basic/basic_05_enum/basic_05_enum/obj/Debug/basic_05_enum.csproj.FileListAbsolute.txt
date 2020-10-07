@@ -1,0 +1,6 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\bin\Debug\basic_05_enum.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\bin\Debug\basic_05_enum.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\bin\Debug\basic_05_enum.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\obj\Debug\basic_05_enum.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\obj\Debug\basic_05_enum.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_05_enum\basic_05_enum\obj\Debug\basic_05_enum.pdb

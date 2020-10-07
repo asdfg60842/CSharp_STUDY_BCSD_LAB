@@ -1,0 +1,6 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\bin\Debug\basic_06_operator.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\bin\Debug\basic_06_operator.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\bin\Debug\basic_06_operator.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\obj\Debug\basic_06_operator.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\obj\Debug\basic_06_operator.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_06_operator\basic_06_operator\obj\Debug\basic_06_operator.pdb

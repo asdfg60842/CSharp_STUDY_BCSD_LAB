@@ -8,16 +8,17 @@ namespace basic_03_variable_and_constant
 {
     class CSVar
     {
-        //필드 (클래스 내에서 공통적으로 사용되는 전역 변수)
+        //Field(global variable commonly used within class)
+        //It is automatically initialized to 0 even if it is not initialized.
         int globalVar;
         const int MAX = 1024;
 
         public void Method1()
         {
-            // 로컬변수
+            //local variable
             int localVar;
 
-            // 아래 할당이 없으면 에러 발생
+            //If there is no assignment below, an error occurs
             localVar = 100;
 
             System.Console.WriteLine(globalVar);
@@ -27,10 +28,8 @@ namespace basic_03_variable_and_constant
 
     class Program
     {
-        // 모든 프로그램에는 Main()이 있어야 함.
         static void Main(string[] args)
         {
-            // 테스트
             CSVar obj = new CSVar();
             obj.Method1();
         }

@@ -1,0 +1,7 @@
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\obj\Debug\basic_10_yield.csprojAssemblyReference.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\obj\Debug\basic_10_yield.csproj.CoreCompileInputs.cache
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\bin\Debug\basic_10_yield.exe.config
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\bin\Debug\basic_10_yield.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\bin\Debug\basic_10_yield.pdb
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\obj\Debug\basic_10_yield.exe
+C:\Users\asdfg\Documents\GitHub\CSharp_STUDY_BCSD_LAB\Basic\basic_10_yield\basic_10_yield\obj\Debug\basic_10_yield.pdb
